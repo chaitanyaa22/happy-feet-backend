@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize')
 
-const db = new Sequelize('postgres://cmmboxsb:WtM86xwEeyhoYL0jqiuIfFXtyWJKF5Zs@rajje.db.elephantsql.com:5432/cmmboxsb', {
+const db = new Sequelize('postgres://xfbzybyt:KLd2zUCIC_S8TZh_0Zq0OwC--6HKT7Oi@rajje.db.elephantsql.com:5432/xfbzybyt', {
     host: 'localhost',
     dialect: 'postgres',
     logging: false
